@@ -1,0 +1,15 @@
+.top-bgcolor {
+    background-color: #e15807;
+}
+
+.card-header {
+    background-color: #174826;
+    color: #ffffff;
+    padding: 5px 5px;
+    font-size: 17px;
+}
+
+td {
+    line-height: 20px;
+    font-size: 15px;
+}

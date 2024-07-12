@@ -1,0 +1,57 @@
+.table thead {
+    text-align: center;
+}
+
+.table td {
+    border-top: none;
+    border-bottom: 2px solid #02245b;
+    padding: 8px;
+}
+
+.table .thead-light th {
+    color: #fff;
+    background-color: #e15807;
+    border-color: #02245b;
+    padding: 10px 15px;
+
+}
+
+.table th {
+    border-top: 2px solid #02245b;
+}
+
+.btn {
+    border: 1px solid #e15807;
+    background-color: #fff;
+    color: #000;
+    font-size: 13px;
+}
+
+.warning {
+    border-color: #e15807;
+    color: #000;
+}
+
+.warning:hover {
+    background: #e15807;
+    ;
+    color: #fff;
+}
+
+.sec-bgcolor {
+    background-color: #e2e8ef;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.vocational h4 {
+    background: #e2e8ef;
+    ;
+    color: #000000;
+}
+
+.card-body {
+    padding: 2px 2px;
+}
